@@ -1,1 +1,12 @@
 de remote vers le local
+
+
+*   e2ca260 (refs/stash) WIP on main: f67d47e osx.txt
+|\
+| * 1a790bf index on main: f67d47e osx.txt
+|/
+* f67d47e (HEAD -> main, origin/main, origin/HEAD) osx.txt
+| * 28c7bfb (origin/e1) Update README.md
+|/
+* 9ff9f01 Create s1
+* 2f0100e Initial commit
